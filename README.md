@@ -21,6 +21,9 @@
     <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
 </div>
 
+<br>
+<br>
+
 ### Contact with me:
 - [LinkedIn](https://www.linkedin.com/in/piotr-hazior-48514326a/)
 - [Email](mailto:piotrhazior02@gmail.com)
