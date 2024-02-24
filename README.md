@@ -3,7 +3,7 @@
 ## About Me:
 - 🎓 Second-year student of Applied Computer Science 
 - 💻 Specializing in Python programming
-- 🔍 Eager to secure an internship as a Data Scientist ML Engineer with a willingness to continue working afterward. Open to learning and mastering new technologies.
+- 🔍 Eager to secure an internship with a willingness to continue working afterward. Open to learning and mastering new technologies.
 - 🛢️ Solid understanding of SQL
 - 🧮 Proficient in algebra and statistics
 - #️⃣ Familiar with C#
