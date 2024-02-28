@@ -25,7 +25,7 @@
 <br>
 
 ### Contact with me:
-- [LinkedIn](https://www.linkedin.com/in/piotr-hazior-48514326a/)
+- [LinkedIn](https://www.linkedin.com/in/piotr-hazior/)
 - [Email](mailto:piotrhazior02@gmail.com)
 <!--
 **PiotrHazior/PiotrHazior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
